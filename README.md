@@ -1,3 +1,6 @@
+Original : 
+https://github.com/Elijas/auto-youtube-subscription-playlist-2
+
 # Description
 This is a Google Apps Script that automatically adds new Youtube videos to playlists (a replacement for Youtube Collections feature). 
 
